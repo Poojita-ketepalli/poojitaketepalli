@@ -8,7 +8,7 @@
 
 > [![Linkedin Badge](https://img.shields.io/badge/Linkedin-poojitaketepalli-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/poojitaketepalli/)
 
-> [![Gmail Badge](https://img.shields.io/badge/Gmail-poojita2309@gmail.com-red?style=flat&logo=Gmail&logoColor=white)](mailto:poojita2309@gmail.com)
+> [![Gmail Badge](https://img.shields.io/badge/Gmail-poojita2309@gmail.com-red?style=flat&logo=Gmail&logoColor=red)](mailto:poojita2309@gmail.com)
 
 > [![Telegram Badge](https://img.shields.io/badge/Telegram-%40PoojitaKetepalli-skyblue?style=flat&logo=Telegram&logoColor=white)](https://t.me/PoojitaKetepalli)
 
