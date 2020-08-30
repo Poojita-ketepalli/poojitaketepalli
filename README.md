@@ -1,6 +1,5 @@
-### Hi there 👋
+### Hello coders :zap:!!! 👋
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">**_I'm poojita. I’m currently studying at Kalasalingam Academy of Research and Education under the stream Artificial Intelligence and Machine Learning._**
+### **_I'm poojita. I’m currently studying at Kalasalingam Academy of Research and Education under the stream Artificial Intelligence and Machine Learning._**
 
-
-
+### **_Love to play with code_**<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
