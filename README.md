@@ -10,21 +10,21 @@
 
 **Languages 🌐**  
 
-![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
+> ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
 
 **Tools 🛠️**
 
-![git](https://img.shields.io/badge/-git-000000?style=flat&logo=git)
+> ![git](https://img.shields.io/badge/-git-000000?style=flat&logo=git)
 ![Visual Studio Code](https://img.shields.io/badge/-VSCode-000000?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![jupyter](https://img.shields.io/badge/-jupyter-000000?style=flat&logo=jupyter)
 ![Anaconda](https://img.shields.io/badge/-Anaconda-000000?style=flat&logo=anaconda)
 
 **Learning**
 
-![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
+> ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
 ![R](https://img.shields.io/badge/-R-000000?style=flat&logo=R)
 
 <div><h3>My profile overview: </h3></div>
