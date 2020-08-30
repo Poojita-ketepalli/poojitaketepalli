@@ -14,3 +14,10 @@
 [![](https://img.shields.io/badge/Telegram-%40PoojitaKetepalli-yellow)](https://t.me/PoojitaKetepalli)
 
 [![](https://img.shields.io/badge/HackerRank-poojitakkr-brightgreen)](https://www.hackerrank.com/poojitakkr)
+
+> <div><h3>My profile overview: </h3></div>
+
+> ![poojita's github stats](https://github-readme-stats.vercel.app/api?username=poojitaketepalli&show_icons=true)
+> <br />
+> <br />
+
