@@ -2,9 +2,9 @@
 
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 
-### **I'm Poojita. I’m currently studying at Kalasalingam Academy of Research and Education under the stream Artificial Intelligence and Machine Learning.**
-
-### **_Love to play with code_**<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+## About me :mortar_board:
+   - I'm Poojita. I’m currently studying at Kalasalingam Academy of Research and Education under the stream Artificial Intelligence and Machine Learning.
+   - Love to play with code<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 **Languages 🌐**  
 
@@ -19,6 +19,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/-VSCode-000000?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![jupyter](https://img.shields.io/badge/-jupyter-000000?style=flat&logo=jupyter)
 ![Anaconda](https://img.shields.io/badge/-Anaconda-000000?style=flat&logo=anaconda)
+![IntelliJ IDEA](http://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=ffffff)
 
 **Learning**
 
