@@ -1,6 +1,6 @@
 ## Hello coders!!!<img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"> 
 
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+<img align='center' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 
 ## About me :mortar_board:
    - I'm Poojita. I’m currently studying at Kalasalingam Academy of Research and Education under the stream Artificial Intelligence and Machine Learning.
