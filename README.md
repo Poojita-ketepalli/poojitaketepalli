@@ -23,10 +23,6 @@
 > <code><img height="20" src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/jupyter_notebook.png" alt="jupyter notebook logo" width="24"></code>
 > <code><img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/vscode.png" alt="vscode logo" width="24"></code>
 
-**Learning**
-> <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" width="24"></code>
-> <code><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rust/rust.png" alt="rust logo" width="24"></code>
-
 <div><h3>My profile overview: </h3></div>
 
 > ![poojita's github stats](https://github-readme-stats.vercel.app/api?username=poojitaketepalli&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
