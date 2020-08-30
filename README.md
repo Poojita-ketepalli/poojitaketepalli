@@ -6,13 +6,13 @@
 
 ### **_Love to play with code_**<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-> [![Linkedin Badge](https://img.shields.io/badge/Linkedin-poojitaketepalli-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/poojitaketepalli/)
+> [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/poojitaketepalli/)
 
-> [![Gmail Badge](https://img.shields.io/badge/Gmail-poojita2309@gmail.com-red?style=flat&logo=Gmail&logoColor=red)](mailto:poojita2309@gmail.com)
+> [![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:poojita2309@gmail.com)
 
-> [![Telegram Badge](https://img.shields.io/badge/Telegram-%40PoojitaKetepalli-skyblue?style=flat&logo=Telegram&logoColor=white)](https://t.me/PoojitaKetepalli)
+> [![Telegram Badge](https://img.shields.io/badge/Telegram-skyblue?style=flat&logo=Telegram&logoColor=white)](https://t.me/PoojitaKetepalli)
 
-> [![Hackerrank Badge](https://img.shields.io/badge/HackerRank-poojitakkr-brightgreen)](https://www.hackerrank.com/poojitakkr)
+> [![Hackerrank Badge](https://img.shields.io/badge/HackerRank-brightgreen)](https://www.hackerrank.com/poojitakkr)
 
 **Languages 🌐 and Tools 🛠️:**  
 > <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="24"></code>
