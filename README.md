@@ -6,7 +6,6 @@
 
 ### **_Love to play with code_**<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-
 > [![Linkedin Badge](https://img.shields.io/badge/Linkedin-poojitaketepalli-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/poojitaketepalli/)
 
 > [![Gmail Badge](https://img.shields.io/badge/Gmail-poojita2309@gmail.com-red?style=flat&logo=Gmail&logoColor=white)](mailto:poojita2309@gmail.com)
@@ -15,12 +14,14 @@
 
 > [![Hackerrank Badge](https://img.shields.io/badge/HackerRank-poojitakkr-brightgreen)](https://www.hackerrank.com/poojitakkr)
 
-**Languages and Tools:**  
+**Languages 🌐 and Tools 🛠️:**  
 > <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 > <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
 > <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 > <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 > <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+> <code><img height="20" src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/jupyter_notebook.png" alt="jupyter notebook logo" width="30"></code>
+> <code><img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/vscode.png" alt="vscode logo" width="24"></code>
 
 <div><h3>My profile overview: </h3></div>
 
