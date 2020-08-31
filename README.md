@@ -1,6 +1,4 @@
-## Hello coders!!!<img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"> 
-
-<img align='center' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
+<img align='centre' src="https://media.giphy.com/media/j5hWF2V3RlNGItTkGc/giphy.gif">
 
 ## About me :mortar_board:
    - I'm Poojita. I’m currently studying at Kalasalingam Academy of Research and Education under the stream Artificial Intelligence and Machine Learning.
@@ -13,6 +11,8 @@
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
 
+<img align='right' src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" width="200">
+
 **Tools 🛠️**
 
 > ![git](https://img.shields.io/badge/-git-000000?style=flat&logo=git)
@@ -20,6 +20,7 @@
 ![jupyter](https://img.shields.io/badge/-jupyter-000000?style=flat&logo=jupyter)
 ![Anaconda](https://img.shields.io/badge/-Anaconda-000000?style=flat&logo=anaconda)
 ![IntelliJ IDEA](http://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=ffffff)
+
 
 **Learning**
 
