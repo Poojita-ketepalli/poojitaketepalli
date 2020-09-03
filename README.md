@@ -20,6 +20,7 @@
 ![jupyter](https://img.shields.io/badge/-jupyter-000000?style=flat&logo=jupyter)
 ![Anaconda](https://img.shields.io/badge/-Anaconda-000000?style=flat&logo=anaconda)
 ![IntelliJ IDEA](http://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=ffffff)
+![Pycharm](http://img.shields.io/badge/-pycharm%20-000000?style=flat-square&logo=pycharm&logoColor=ffffff)
 
 
 **Learning**
