@@ -2,7 +2,7 @@
 
 ## About me :mortar_board:
    - I'm Poojita. I’m currently studying at Kalasalingam Academy of Research and Education under the stream Artificial Intelligence and Machine Learning.
-   - Love to play with code<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+   - Eat-Sleep-Code-Repeat  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 **Languages 🌐**  
 
