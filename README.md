@@ -27,6 +27,8 @@
 
 > ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
 ![R](https://img.shields.io/badge/-R-000000?style=flat&logo=R)
+![HTML](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3)
 
 <div><h3>My profile overview: </h3></div>
 
