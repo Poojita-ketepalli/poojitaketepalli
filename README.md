@@ -1,8 +1,27 @@
 <img align='centre' src="https://media.giphy.com/media/j5hWF2V3RlNGItTkGc/giphy.gif">
 
 ## About me :mortar_board:
-   - I'm Poojita. I’m currently studying at Kalasalingam Academy of Research and Education under the stream Artificial Intelligence and Machine Learning.
-   - Eat-Sleep-Code-Repeat  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+<a href="https://twitter.com/Poojita23">
+  <img align="left" alt="poojita ketepalli | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/poojitaketepalli/">
+  <img align="left" alt="poojita's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://t.me/PoojitaKetepalli">
+  <img align="left" alt="poojita's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+</a>
+<a href="https://www.instagram.com/_coder23_/">
+  <img align="left" alt="poojita's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://www.codechef.com/users/abhisheknaidu">
+  <img align="left" alt="poojita's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
+</a>
+
+<br />
+<br />
+
+  - I'm Poojita. I’m currently studying at Kalasalingam Academy of Research and Education under the stream Artificial Intelligence and Machine Learning.
+  - Eat-Sleep-Code-Repeat  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 **Languages 🌐**  
 
