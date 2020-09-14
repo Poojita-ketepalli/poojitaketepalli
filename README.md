@@ -38,7 +38,7 @@
 
 **Social**
 
-> [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/poojitaketepalli/) [![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:poojita2309@gmail.com) [![Telegram Badge](https://img.shields.io/badge/Telegram-skyblue?style=flat&logo=Telegram&logoColor=white)](https://t.me/PoojitaKetepalli) [![Hackerrank Badge](https://img.shields.io/badge/HackerRank-brightgreen)](https://www.hackerrank.com/poojitakkr)
+> [![Linkedin Badge](https://img.shields.io/badge/-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/poojitaketepalli/) [![Gmail Badge](https://img.shields.io/badge/-red?style=flat&logo=Gmail&logoColor=white)](mailto:poojita2309@gmail.com) [![Telegram Badge](https://img.shields.io/badge/-skyblue?style=flat&logo=Telegram&logoColor=white)](https://t.me/PoojitaKetepalli) [![Hackerrank Badge](https://img.shields.io/badge/HackerRank-brightgreen)](https://www.hackerrank.com/poojitakkr)
 
 
  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=poojitaketepalli.poojitaketepalli)
