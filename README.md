@@ -4,6 +4,9 @@
 <a href="https://twitter.com/Poojita23">
   <img align="left" alt="poojita ketepalli | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
+<a href="mailto:poojita2309@gmail.com">
+  <img align="left" alt="poojita's mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
 <a href="https://www.linkedin.com/in/poojitaketepalli/">
   <img align="left" alt="poojita's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -13,7 +16,7 @@
 <a href="https://www.instagram.com/_coder23_/">
   <img align="left" alt="poojita's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://www.codechef.com/users/abhisheknaidu">
+<a href="https://www.hackerrank.com/poojitakkr">
   <img align="left" alt="poojita's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
 </a>
 
