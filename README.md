@@ -22,29 +22,29 @@
 
 **Languages 🌐**  
 
-> ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
-![C](https://img.shields.io/badge/-C-000000?style=flat&logo=c)
-![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
-![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
+> ![Python](https://img.shields.io/badge/-000000?style=flat&logo=python)
+![C](https://img.shields.io/badge/-000000?style=flat&logo=c)
+![C++](https://img.shields.io/badge/-000000?style=flat&logo=c%2B%2B)
+![SQL](https://img.shields.io/badge/-000000?style=flat&logo=postgresql)
 
 <img align='right' src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" width="200">
 
 **Tools 🛠️**
 
-> ![git](https://img.shields.io/badge/-git-000000?style=flat&logo=git)
-![Visual Studio Code](https://img.shields.io/badge/-VSCode-000000?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![jupyter](https://img.shields.io/badge/-jupyter-000000?style=flat&logo=jupyter)
-![Anaconda](https://img.shields.io/badge/-Anaconda-000000?style=flat&logo=anaconda)
-![IntelliJ IDEA](http://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=ffffff)
-![Pycharm](http://img.shields.io/badge/-pycharm%20-000000?style=flat-square&logo=pycharm&logoColor=ffffff)
+> ![git](https://img.shields.io/badge/-000000?style=flat&logo=git)
+![Visual Studio Code](https://img.shields.io/badge/-000000?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![jupyter](https://img.shields.io/badge/-000000?style=flat&logo=jupyter)
+![Anaconda](https://img.shields.io/badge/-000000?style=flat&logo=anaconda)
+![IntelliJ IDEA](http://img.shields.io/badge/-000000?style=flat-square&logo=intellij-idea&logoColor=ffffff)
+![Pycharm](http://img.shields.io/badge/-000000?style=flat-square&logo=pycharm&logoColor=ffffff)
 
 
 **Learning**
 
-> ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
-![R](https://img.shields.io/badge/-R-000000?style=flat&logo=R)
-![HTML](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3)
+> ![Java](https://img.shields.io/badge/-000000?style=flat&logo=java)
+![R](https://img.shields.io/badge/-000000?style=flat&logo=R)
+![HTML](https://img.shields.io/badge/-000000?style=flat&logo=html5)
+![CSS](https://img.shields.io/badge/-000000?style=flat&logo=css3)
 
 <div><h3>My profile overview: </h3></div>
 
