@@ -5,15 +5,14 @@
   <img align="left" alt="poojita ketepalli | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/poojitaketepalli/">
-  <img align="left" alt="poojita's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="poojita's LinkdeIN" width="22px" src="https://github.com/poojitaketepalli/poojitaketepalli/blob/master/icons/linkedin%20(1).png" />
 </a>
 <a href="https://t.me/PoojitaKetepalli">
   <img align="left" alt="poojita's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
 <a href="https://www.hackerrank.com/poojitakkr">
-  <img align="left" alt="poojita's Hackerrank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
+  <img align="left" alt="poojita's Hackerrank" width="22px" src="https://github.com/poojitaketepalli/poojitaketepalli/blob/master/icons/hackerrank.png" />
 </a>
-
 <br />
 <br />
 
