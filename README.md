@@ -13,6 +13,9 @@
 <a href="https://www.hackerrank.com/poojitakkr">
   <img align="left" alt="poojita's Hackerrank" width="22px" src="https://github.com/poojitaketepalli/poojitaketepalli/blob/master/icons/hackerrank%20icon.png" />
 </a>
+<a href="mailto:poojita2309@gmail.com">
+  <img align="left" alt="poojita| Gmail" width="26px" src="https://github.com/poojitaketepalli/poojitaketepalli/blob/master/icons/gmail.png" />
+ </a>
 <br />
 <br />
 
