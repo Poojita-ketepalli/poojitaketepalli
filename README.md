@@ -2,16 +2,16 @@
 
 ## About me :mortar_board:
 <a href="https://twitter.com/Poojita23">
-  <img align="left" alt="poojita ketepalli | Twitter" width="22px" src="https://github.com/poojitaketepalli/poojitaketepalli/blob/master/icons/twitter%20(1).png" />
+  <img align="left" alt="poojita ketepalli | Twitter" width="22px" src="https://github.com/poojitaketepalli/poojitaketepalli/blob/master/icons/twitter.png" />
 </a>
 <a href="https://www.linkedin.com/in/poojitaketepalli/">
-  <img align="left" alt="poojita's LinkdeIN" width="22px" src="https://github.com/poojitaketepalli/poojitaketepalli/blob/master/icons/linkedin%20(1).png" />
+  <img align="left" alt="poojita's LinkdeIN" width="22px" src="https://github.com/poojitaketepalli/poojitaketepalli/blob/master/icons/linkedin.png" />
 </a>
 <a href="https://t.me/PoojitaKetepalli">
   <img align="left" alt="poojita's Telegram" width="22px" src="https://github.com/poojitaketepalli/poojitaketepalli/blob/master/icons/telegram.png" />
 </a>
 <a href="https://www.hackerrank.com/poojitakkr">
-  <img align="left" alt="poojita's Hackerrank" width="22px" src="https://github.com/poojitaketepalli/poojitaketepalli/blob/master/icons/hackerrank.png" />
+  <img align="left" alt="poojita's Hackerrank" width="22px" src="https://github.com/poojitaketepalli/poojitaketepalli/blob/master/icons/hackerrank%20icon.png" />
 </a>
 <br />
 <br />
