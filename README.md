@@ -1,4 +1,4 @@
-<img align='centre' src="https://media.giphy.com/media/j5hWF2V3RlNGItTkGc/giphy.gif">
+<img align='centre' src="https://c7.uihere.com/files/178/885/235/5bbb084bbe7ae.jpg">
 
 ## About me :mortar_board:
 <a href="https://twitter.com/Poojita23">
