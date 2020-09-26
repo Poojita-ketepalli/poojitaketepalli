@@ -20,33 +20,29 @@
 <br />
 
   - I'm Poojita. I’m currently studying at Kalasalingam Academy of Research and Education under the stream Artificial Intelligence and Machine Learning.
-  - Eat-Sleep-Code-Repeat  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+  - Eat-Sleep-Code-Repeat  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 
-**Languages 🌐**  
-
-> ![Python](https://github.com/poojitaketepalli/poojitaketepalli/blob/master/icons/python.png)
-![C](https://github.com/poojitaketepalli/poojitaketepalli/blob/master/icons/c%20icon.png)
-![C++](https://github.com/poojitaketepalli/poojitaketepalli/blob/master/icons/c%2B%2B%20icon.png)
-![SQL](https://github.com/poojitaketepalli/poojitaketepalli/blob/master/icons/mysql.png)
+- **Competitive Programming🌐**
+	- Python 
+	- C
+	- C++
+- **Database**
+  - MySQL
 
 <img align='right' src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" width="200">
 
-**Tools 🛠️**
+- **Tools 🛠️**
+	- Git
+	- Visual studio code
+	- Jupyter
+  - IntelliJ
+  - PyCharm
 
-> ![git](https://img.shields.io/badge/-000000?style=flat&logo=git)
-![Visual Studio Code](https://img.shields.io/badge/-000000?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![jupyter](https://img.shields.io/badge/-000000?style=flat&logo=jupyter)
-![Anaconda](https://img.shields.io/badge/-000000?style=flat&logo=anaconda)
-![IntelliJ IDEA](http://img.shields.io/badge/-000000?style=flat-square&logo=intellij-idea&logoColor=ffffff)
-![Pycharm](http://img.shields.io/badge/-000000?style=flat-square&logo=pycharm&logoColor=ffffff)
-
-
-**Learning**
-
-> ![Java](https://img.shields.io/badge/-000000?style=flat&logo=java)
-![R](https://img.shields.io/badge/-000000?style=flat&logo=R)
-![HTML](https://img.shields.io/badge/-000000?style=flat&logo=html5)
-![CSS](https://img.shields.io/badge/-000000?style=flat&logo=css3)
+- **Learning**
+  - Java
+  - R
+  - HTML
+  - CSS
 
 <div><h3>My profile overview: </h3></div>
 
