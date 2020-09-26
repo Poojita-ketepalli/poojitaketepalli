@@ -24,10 +24,10 @@
 
 **Languages 🌐**  
 
-> ![Python](https://img.shields.io/badge/-000000?style=flat&logo=python)
-![C](https://img.shields.io/badge/-000000?style=flat&logo=c)
-![C++](https://img.shields.io/badge/-000000?style=flat&logo=c%2B%2B)
-![SQL](https://img.shields.io/badge/-000000?style=flat&logo=postgresql)
+> ![Python](https://github.com/poojitaketepalli/poojitaketepalli/blob/master/icons/python.png)
+![C](https://github.com/poojitaketepalli/poojitaketepalli/blob/master/icons/c%20icon.png)
+![C++](https://github.com/poojitaketepalli/poojitaketepalli/blob/master/icons/c%2B%2B%20icon.png)
+![SQL](https://github.com/poojitaketepalli/poojitaketepalli/blob/master/icons/mysql.png)
 
 <img align='right' src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" width="200">
 
