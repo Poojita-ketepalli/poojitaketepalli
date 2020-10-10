@@ -19,27 +19,15 @@
 <br />
 <br />
 
-  - I'm Poojita. I’m currently studying at Kalasalingam Academy of Research and Education under the stream Artificial Intelligence and Machine Learning.
-  - Eat-Sleep-Code-Repeat  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-
-- ## **Ask me about :computer:**
-   - Python 
-   - C
-   - MySQL
-
-<img align='right' src="https://media.giphy.com/media/Ah3zHH7hvsSB2/giphy.gif" width="200">
-
-- ## **Tools I use🛠️**
-   - Visual studio code
-   - Jupyter
-   - IntelliJ
-   - PyCharm
-
-- ## **Learning :books:**
-  - Java
-  - R
-  - HTML
-  - CSS
+  :pushpin: I'm Poojita. I’m currently studying at Kalasalingam Academy of Research and Education under the stream Artificial Intelligence and Machine Learning.        
+  
+  :pushpin: Eat-Sleep-Code-Repeat  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">     
+  
+  :pushpin: Known languages :computer: : Python,C,MySQL
+  
+  :pushpin: Tools I use 🛠️: Visual studio code,Jupyter,IntelliJ,Pycharm
+  
+  :pushpin: Learning :books: : Java,R,HTML,CSS
 
 <div><h3>My profile overview: </h3></div>
 
