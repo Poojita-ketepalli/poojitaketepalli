@@ -27,7 +27,7 @@
   
   :pushpin: Tools I use 🛠️: Visual studio code,Jupyter,IntelliJ,Pycharm
   
-  :pushpin: Learning :books: : Java,R
+  :pushpin: Learning :books: : Java,R,Machine Learning
 
 <div><h3>My profile overview: </h3></div>
 
