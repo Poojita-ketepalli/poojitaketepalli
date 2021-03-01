@@ -23,7 +23,7 @@
   
   :pushpin: Eat-Sleep-Code-Repeat  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">     
   
-  :pushpin: Known languages :computer: : Python,C,MySQL
+  :pushpin: Have Knowledge in :computer: : Python,C,MySQL
   
   :pushpin: Tools I use 🛠️: Visual studio code,Jupyter,IntelliJ,Pycharm
   
