@@ -16,7 +16,7 @@
 <a href="mailto:poojita2309@gmail.com">
   <img align="left" alt="poojita| Gmail" width="26px" src="https://github.com/poojitaketepalli/poojitaketepalli/blob/master/icons/gmail.png" />
  </a>
- <a href="mailto:poojita2309@gmail.com">
+ <a href="https://www.kaggle.com/poojita2305/account">
   <img align="left" alt="poojita| Gmail" width="26px" src="https://github.com/poojitaketepalli/poojitaketepalli/blob/master/icons/kaggle.png" />
  </a>
 <br />
