@@ -27,10 +27,6 @@
   :pushpin: Eat-Sleep-Code-Repeat  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">     
   
   :pushpin: Have Knowledge in :computer: : Python,C,MySQL,Machine Learning,Data Structures
-  
-  :pushpin: Tools I use 🛠️: Visual studio code,Jupyter,IntelliJ,Pycharm
-  
-  :pushpin: Learning :books: : Deep learning
 
 <div><h3>My profile overview: </h3></div>
 
