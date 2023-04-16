@@ -21,9 +21,8 @@
   :pushpin: Eat-Sleep-Code-Repeat  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">     
   
   :pushpin: Have Knowledge in :computer: : <br>
-  * Python
-  * C
-  * Java
+  * Python, C, Java
+  * HTML, CSS
   * MySQL
   * Machine Learning
   * Deep Learning
